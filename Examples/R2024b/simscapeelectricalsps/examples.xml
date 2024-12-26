@@ -1,0 +1,2113 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>IEEE13NodeTestFeederExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/IEEE13NodeTestFeederExample.html</file>
+    <metadata>ex00500044</metadata>
+    <thumbnail>html/IEEE13NodeTestFeederExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">IEEE13NodeTestFeeder.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">IEEE13NodeTestFeederInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePhaseDynamicLoadExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePhaseDynamicLoadExample.html</file>
+    <metadata>ex00500045</metadata>
+    <thumbnail>html/SinglePhaseDynamicLoadExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SinglePhaseDynamicLoad.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>TwoandThreeLevelVSCExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TwoandThreeLevelVSCExample.html</file>
+    <metadata>ex00500046</metadata>
+    <thumbnail>html/TwoandThreeLevelVSCExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">TwoandThreeLevelVSC.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>NeutralPointClampInverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/NeutralPointClampInverterExample.html</file>
+    <metadata>ex00500047</metadata>
+    <thumbnail>html/NeutralPointClampInverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">NeutralPointClampInverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ThreeLevelPWMVoltageSourceConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThreeLevelPWMVoltageSourceConverterExample.html</file>
+    <metadata>ex00500048</metadata>
+    <thumbnail>html/ThreeLevelPWMVoltageSourceConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThreeLevelPWMVoltageSourceConverter.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">ThreeLevelPWMVoltageSourceConverter.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePoleLineReclosingExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePoleLineReclosingExample.html</file>
+    <metadata>ex00500049</metadata>
+    <thumbnail>html/SinglePoleLineReclosingExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SinglePoleLineReclosing.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ProgrammableSourcewithPLLExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ProgrammableSourcewithPLLExample.html</file>
+    <metadata>ex00500050</metadata>
+    <thumbnail>html/ProgrammableSourcewithPLLExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ProgrammableSourcewithPLL.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SeriesCompensatedNetworkExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SeriesCompensatedNetworkExample.html</file>
+    <metadata>ex00500051</metadata>
+    <thumbnail>html/SeriesCompensatedNetworkExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SeriesCompensatedNetwork.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ProgrammableSourcewithSequenceAnalyzerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ProgrammableSourcewithSequenceAnalyzerExample.html</file>
+    <metadata>ex00500052</metadata>
+    <thumbnail>html/ProgrammableSourcewithSequenceAnalyzerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ProgrammableSourcewithSequenceAnalyzer.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>GTOConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/GTOConverterExample.html</file>
+    <metadata>ex00500053</metadata>
+    <thumbnail>html/GTOConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">GTOConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>GridConnectedPVFarmExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/GridConnectedPVFarmExample.html</file>
+    <metadata>ex00500054</metadata>
+    <thumbnail>html/GridConnectedPVFarmExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">GridConnectedPVFarm.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FivePhasePMSMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FivePhasePMSMExample.html</file>
+    <metadata>ex00500055</metadata>
+    <thumbnail>html/FivePhasePMSMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">FivePhasePMSM.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SixPhaseSynchronousMachineExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SixPhaseSynchronousMachineExample.html</file>
+    <metadata>ex00500056</metadata>
+    <thumbnail>html/SixPhaseSynchronousMachineExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SixPhaseSynchronousMachine.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ACDCACConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ACDCACConverterExample.html</file>
+    <metadata>ex00500057</metadata>
+    <thumbnail>html/ACDCACConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ACDCACConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>AutoTransformerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/AutoTransformerExample.html</file>
+    <metadata>ex00500058</metadata>
+    <thumbnail>html/AutoTransformerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">AutoTransformer.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">AutoTransformerLine735kVFD200km.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>SwitchingFunctionConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SwitchingFunctionConverterExample.html</file>
+    <metadata>ex00500059</metadata>
+    <thumbnail>html/SwitchingFunctionConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SwitchingFunctionConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>BoostConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BoostConverterExample.html</file>
+    <metadata>ex00500060</metadata>
+    <thumbnail>html/BoostConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">BoostConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>BuckBoostConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BuckBoostConverterExample.html</file>
+    <metadata>ex00500061</metadata>
+    <thumbnail>html/BuckBoostConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">BuckBoostConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>BuckConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BuckConverterExample.html</file>
+    <metadata>ex00500062</metadata>
+    <thumbnail>html/BuckConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">BuckConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>CukConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CukConverterExample.html</file>
+    <metadata>ex00500063</metadata>
+    <thumbnail>html/CukConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">CukConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FiveLimbCoreTransformerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FiveLimbCoreTransformerExample.html</file>
+    <metadata>ex00500064</metadata>
+    <thumbnail>html/FiveLimbCoreTransformerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">FiveLimbCoreTransformer.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FlybackConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FlybackConverterExample.html</file>
+    <metadata>ex00500065</metadata>
+    <thumbnail>html/FlybackConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">FlybackConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ForwardConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ForwardConverterExample.html</file>
+    <metadata>ex00500066</metadata>
+    <thumbnail>html/ForwardConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ForwardConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FrequencyMeasurementExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FrequencyMeasurementExample.html</file>
+    <metadata>ex00500067</metadata>
+    <thumbnail>html/FrequencyMeasurementExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">FrequencyMeasurement.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FullWaveRectifierExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FullWaveRectifierExample.html</file>
+    <metadata>ex00500068</metadata>
+    <thumbnail>html/FullWaveRectifierExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">FullWaveRectifier.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>STATCOMTransmissionSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/STATCOMTransmissionSystemExample.html</file>
+    <metadata>ex00500069</metadata>
+    <thumbnail>html/STATCOMTransmissionSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">STATCOMTransmissionSystem.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">STATCOMTransmissionSystemData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">STATCOMTransmissionSystemLib.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>HVDCMMCInterconnectionExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HVDCMMCInterconnectionExample.html</file>
+    <metadata>ex00500070</metadata>
+    <thumbnail>html/HVDCMMCInterconnectionExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">HVDCMMCInterconnection.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">HVDCMMCInterconnectionParam.m</file>
+  </demoitem>
+  <demoitem>
+    <source>ModularMultiLevelConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ModularMultiLevelConverterExample.html</file>
+    <metadata>ex00500071</metadata>
+    <thumbnail>html/ModularMultiLevelConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ModularMultiLevelConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>HBridgeMotorDriveExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HBridgeMotorDriveExample.html</file>
+    <metadata>ex00500072</metadata>
+    <thumbnail>html/HBridgeMotorDriveExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">HBridgeMotorDrive.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FlickermeterStatisticalAnalysisExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FlickermeterStatisticalAnalysisExample.html</file>
+    <metadata>ex00500073</metadata>
+    <thumbnail>html/FlickermeterStatisticalAnalysisExample_01.png</thumbnail>
+    <hideCode/>
+    <product>control</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">FlickermeterStatisticalAnalysis.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">FlickermeterStatisticalAnalysisInit.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>KundurTwoAreaSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/KundurTwoAreaSystemExample.html</file>
+    <metadata>ex00500074</metadata>
+    <thumbnail>html/KundurTwoAreaSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">KundurTwoAreaSystem.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">ActivePowerComparison.png</file>
+    <file component="simscapeelectricalsps" timestamp="0">KundurSchema.png</file>
+    <file component="simscapeelectricalsps" timestamp="0">PositiveSequenceVoltagePhasor.fig</file>
+  </demoitem>
+  <demoitem>
+    <source>LoadFlow29BusNetworkExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/LoadFlow29BusNetworkExample.html</file>
+    <metadata>ex00500075</metadata>
+    <thumbnail>html/LoadFlow29BusNetworkExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">LoadFlow29BusNetwork.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>LoadFlow5BusNetworkExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/LoadFlow5BusNetworkExample.html</file>
+    <metadata>ex00500076</metadata>
+    <thumbnail>html/LoadFlow5BusNetworkExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">LoadFlow5BusNetwork.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>LineImpedanceModulatorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/LineImpedanceModulatorExample.html</file>
+    <metadata>ex00500077</metadata>
+    <thumbnail>html/LineImpedanceModulatorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">LineImpedanceModulator.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">LineImpedanceModulator.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">LineImpedanceModulatorInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>MicroGridIslandedOperationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/MicroGridIslandedOperationExample.html</file>
+    <metadata>ex00500078</metadata>
+    <thumbnail>html/MicroGridIslandedOperationExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">MicroGridIslandedOperation.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">MicroGridDroop.png</file>
+    <workFolder>MicroGrid</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>MultiCellMotorDriveExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/MultiCellMotorDriveExample.html</file>
+    <metadata>ex00500079</metadata>
+    <thumbnail>html/MultiCellMotorDriveExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">MultiCellMotorDrive.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>OLTCRegulatingTransformerPhasorModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/OLTCRegulatingTransformerPhasorModelExample.html</file>
+    <metadata>ex00500080</metadata>
+    <thumbnail>html/OLTCRegulatingTransformerPhasorModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="1708342156">OLTCRegulatingTransformerPhasorModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePhasePWMInverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePhasePWMInverterExample.html</file>
+    <metadata>ex00500081</metadata>
+    <thumbnail>html/SinglePhasePWMInverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SinglePhasePWMInverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PowerSystemStabilizersExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PowerSystemStabilizersExample.html</file>
+    <metadata>ex00500082</metadata>
+    <thumbnail>html/PowerSystemStabilizersExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">PowerSystemStabilizers.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">PowerSystemStabilizersBodePlot.fig</file>
+    <file component="simscapeelectricalsps" timestamp="0">PowerSystemStabilizersFault.fig</file>
+    <file component="simscapeelectricalsps" timestamp="0">PowerSystemStabilizersStep.fig</file>
+  </demoitem>
+  <demoitem>
+    <source>OLTCPhaseShiftingTransformerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/OLTCPhaseShiftingTransformerExample.html</file>
+    <metadata>ex00500083</metadata>
+    <thumbnail>html/OLTCPhaseShiftingTransformerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="1708342309">OLTCPhaseShiftingTransformer.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PVModulePartialShadingExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PVModulePartialShadingExample.html</file>
+    <metadata>ex00500084</metadata>
+    <thumbnail>html/PVModulePartialShadingExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">PVModulePartialShading.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ResidentialPVArrayExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ResidentialPVArrayExample.html</file>
+    <metadata>ex00500085</metadata>
+    <thumbnail>html/ResidentialPVArrayExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ResidentialPVArray.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>GridConnectedPVArrayExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/GridConnectedPVArrayExample.html</file>
+    <metadata>ex00500086</metadata>
+    <thumbnail>html/GridConnectedPVArrayExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">GridConnectedPVArray.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">GridConnectedPVArrayParam.m</file>
+  </demoitem>
+  <demoitem>
+    <source>TransformerlessPVArrayExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TransformerlessPVArrayExample.html</file>
+    <metadata>ex00500087</metadata>
+    <thumbnail>html/TransformerlessPVArrayExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">TransformerlessPVArray.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PVFarmDistributionSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PVFarmDistributionSystemExample.html</file>
+    <metadata>ex00500088</metadata>
+    <thumbnail>html/PVFarmDistributionSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">PVFarmDistributionSystem.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PVArrayGridAverageModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PVArrayGridAverageModelExample.html</file>
+    <metadata>ex00500089</metadata>
+    <thumbnail>html/PVArrayGridAverageModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">PVArrayGridAverageModel.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">PVArrayGridAverageModelData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>PVArrayGridExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PVArrayGridExample.html</file>
+    <metadata>ex00500090</metadata>
+    <thumbnail>html/PVArrayGridExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">PVArrayGrid.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">PVArrayGridData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>RegulatedBuckConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RegulatedBuckConverterExample.html</file>
+    <metadata>ex00500091</metadata>
+    <thumbnail>html/RegulatedBuckConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">RegulatedBuckConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RegulatedResonantLLCConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RegulatedResonantLLCConverterExample.html</file>
+    <metadata>ex00500092</metadata>
+    <thumbnail>html/RegulatedResonantLLCConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">RegulatedResonantLLCConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RegulatedThyristorRectifierExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RegulatedThyristorRectifierExample.html</file>
+    <metadata>ex00500093</metadata>
+    <thumbnail>html/RegulatedThyristorRectifierExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">RegulatedThyristorRectifier.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ResonantLLCConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ResonantLLCConverterExample.html</file>
+    <metadata>ex00500094</metadata>
+    <thumbnail>html/ResonantLLCConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ResonantLLCConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SeriesLoadResonantConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SeriesLoadResonantConverterExample.html</file>
+    <metadata>ex00500095</metadata>
+    <thumbnail>html/SeriesLoadResonantConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SeriesLoadResonantConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SimulinkInterfaceExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SimulinkInterfaceExample.html</file>
+    <metadata>ex00500096</metadata>
+    <thumbnail>html/SimulinkInterfaceExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SimulinkInterface.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">SimulinkInterfaceData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">SimulinkInterfaceLib.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SynchronousGeneratorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SynchronousGeneratorExample.html</file>
+    <metadata>ex00500097</metadata>
+    <thumbnail>html/SynchronousGeneratorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SynchronousGenerator.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SynchronousGeneratorwithSimscapeExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SynchronousGeneratorwithSimscapeExample.html</file>
+    <metadata>ex00500098</metadata>
+    <thumbnail>html/SynchronousGeneratorwithSimscapeExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SynchronousGeneratorwithSimscape.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SolidOxideFuelCellExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SolidOxideFuelCellExample.html</file>
+    <metadata>ex00500099</metadata>
+    <thumbnail>html/SolidOxideFuelCellExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SolidOxideFuelCell.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SimscapeInterfaceExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SimscapeInterfaceExample.html</file>
+    <metadata>ex00500100</metadata>
+    <thumbnail>html/SimscapeInterfaceExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SimscapeInterface.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SwitchedReluctanceMotorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SwitchedReluctanceMotorExample.html</file>
+    <metadata>ex00500101</metadata>
+    <thumbnail>html/SwitchedReluctanceMotorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SwitchedReluctanceMotor.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>OLTCRegulatingTransformerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/OLTCRegulatingTransformerExample.html</file>
+    <metadata>ex00500102</metadata>
+    <thumbnail>html/OLTCRegulatingTransformerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="1708341914">OLTCRegulatingTransformer.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ThreeLimbCoreTransformerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThreeLimbCoreTransformerExample.html</file>
+    <metadata>ex00500103</metadata>
+    <thumbnail>html/ThreeLimbCoreTransformerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThreeLimbCoreTransformer.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ThyristorRectifiersExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThyristorRectifiersExample.html</file>
+    <metadata>ex00500104</metadata>
+    <thumbnail>html/ThyristorRectifiersExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThyristorRectifiers.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>TwoQuadrantDCDCConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TwoQuadrantDCDCConverterExample.html</file>
+    <metadata>ex00500105</metadata>
+    <thumbnail>html/TwoQuadrantDCDCConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">TwoQuadrantDCDCConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>VehicletoGridSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/VehicletoGridSystemExample.html</file>
+    <metadata>ex00500106</metadata>
+    <thumbnail>html/VehicletoGridSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">VehicletoGridSystem.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">VehicletoGridSystem.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">VehicletoGridSystemLib.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>VariableInductorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/VariableInductorExample.html</file>
+    <metadata>ex00500107</metadata>
+    <thumbnail>html/VariableInductorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">VariableInductor.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>WatkinsJohnsonConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WatkinsJohnsonConverterExample.html</file>
+    <metadata>ex00500108</metadata>
+    <thumbnail>html/WatkinsJohnsonConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">WatkinsJohnsonConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ActiveHarmonicFilterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ActiveHarmonicFilterExample.html</file>
+    <metadata>ex00500109</metadata>
+    <thumbnail>html/ActiveHarmonicFilterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ActiveHarmonicFilter.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">ActiveHarmonicFilter.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>ArcModelsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ArcModelsExample.html</file>
+    <metadata>ex00500110</metadata>
+    <thumbnail>html/ArcModelsExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ArcModels.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePhaseASMVoltageControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePhaseASMVoltageControlExample.html</file>
+    <metadata>ex00500111</metadata>
+    <thumbnail>html/SinglePhaseASMVoltageControlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SinglePhaseASMVoltageControl.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePhaseASMVectorControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePhaseASMVectorControlExample.html</file>
+    <metadata>ex00500112</metadata>
+    <thumbnail>html/SinglePhaseASMVectorControlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SinglePhaseASMVectorControl.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ThreePhaseASMSaturationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThreePhaseASMSaturationExample.html</file>
+    <metadata>ex00500113</metadata>
+    <thumbnail>html/ThreePhaseASMSaturationExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThreePhaseASMSaturation.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>BreakerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BreakerExample.html</file>
+    <metadata>ex00500114</metadata>
+    <thumbnail>html/BreakerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">Breaker.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>BrushlessDCMotorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BrushlessDCMotorExample.html</file>
+    <metadata>ex00500115</metadata>
+    <thumbnail>html/BrushlessDCMotorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">BrushlessDCMotor.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>BuckConverterInterpolationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BuckConverterInterpolationExample.html</file>
+    <metadata>ex00500116</metadata>
+    <thumbnail>html/BuckConverterInterpolationExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">BuckConverterInterpolation.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>CoupledCablesExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CoupledCablesExample.html</file>
+    <metadata>ex00500117</metadata>
+    <thumbnail>html/CoupledCablesExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">CoupledCables.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DualActiveBridgeConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DualActiveBridgeConverterExample.html</file>
+    <metadata>ex00500118</metadata>
+    <thumbnail>html/DualActiveBridgeConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">DualActiveBridgeConverter.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">DualActiveBridgeConverterData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">DualActiveBridgeDCSource.png</file>
+    <file component="simscapeelectricalsps" timestamp="0">DualActiveBridgeDynamics.png</file>
+  </demoitem>
+  <demoitem>
+    <source>CurrentTransformerSaturationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CurrentTransformerSaturationExample.html</file>
+    <metadata>ex00500119</metadata>
+    <thumbnail>html/CurrentTransformerSaturationExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">CurrentTransformerSaturation.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>CycloConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CycloConverterExample.html</file>
+    <metadata>ex00500120</metadata>
+    <thumbnail>html/CycloConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">CycloConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DCMotorStartingExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DCMotorStartingExample.html</file>
+    <metadata>ex00500121</metadata>
+    <thumbnail>html/DCMotorStartingExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">DCMotorStarting.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DistributionSTATCOMAverageModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DistributionSTATCOMAverageModelExample.html</file>
+    <metadata>ex00500122</metadata>
+    <thumbnail>html/DistributionSTATCOMAverageModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">DistributionSTATCOMAverageModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DistributionSTATCOMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DistributionSTATCOMExample.html</file>
+    <metadata>ex00500123</metadata>
+    <thumbnail>html/DistributionSTATCOMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">DistributionSTATCOM.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DynamicLoadExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DynamicLoadExample.html</file>
+    <metadata>ex00500124</metadata>
+    <thumbnail>html/DynamicLoadExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">DynamicLoad.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SteadyStateAnalysisExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SteadyStateAnalysisExample.html</file>
+    <metadata>ex00500125</metadata>
+    <thumbnail>html/SteadyStateAnalysisExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SteadyStateAnalysis.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FiveCellMultiLevelConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FiveCellMultiLevelConverterExample.html</file>
+    <metadata>ex00500126</metadata>
+    <thumbnail>html/FiveCellMultiLevelConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">FiveCellMultiLevelConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FlickermeterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FlickermeterExample.html</file>
+    <metadata>ex00500127</metadata>
+    <thumbnail>html/FlickermeterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>control</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">Flickermeter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>HarmonicFiltersExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HarmonicFiltersExample.html</file>
+    <metadata>ex00500128</metadata>
+    <thumbnail>html/HarmonicFiltersExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">HarmonicFilters.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">HarmonicFiltersImpedance.fig</file>
+  </demoitem>
+  <demoitem>
+    <source>HVDCTransmissionSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HVDCTransmissionSystemExample.html</file>
+    <metadata>ex00500129</metadata>
+    <thumbnail>html/HVDCTransmissionSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">HVDCTransmissionSystem.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>HVDCThyristorBasedExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HVDCThyristorBasedExample.html</file>
+    <metadata>ex00500130</metadata>
+    <thumbnail>html/HVDCThyristorBasedExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">HVDCThyristorBased.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>HVDCAverageModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HVDCAverageModelExample.html</file>
+    <metadata>ex00500131</metadata>
+    <thumbnail>html/HVDCAverageModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">HVDCAverageModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>HVDCVSCBasedExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HVDCVSCBasedExample.html</file>
+    <metadata>ex00500132</metadata>
+    <thumbnail>html/HVDCVSCBasedExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">HVDCVSCBased.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SimplifiedSynchronousMachineExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SimplifiedSynchronousMachineExample.html</file>
+    <metadata>ex00500133</metadata>
+    <thumbnail>html/SimplifiedSynchronousMachineExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SimplifiedSynchronousMachine.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>EmergencyDieselGeneratorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/EmergencyDieselGeneratorExample.html</file>
+    <metadata>ex00500134</metadata>
+    <thumbnail>html/EmergencyDieselGeneratorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">EmergencyDieselGenerator.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SmallScaleMicroGridExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SmallScaleMicroGridExample.html</file>
+    <metadata>ex00500135</metadata>
+    <thumbnail>html/SmallScaleMicroGridExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="1684926332">SmallScaleMicroGrid.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">SmallScaleMicroGridSolarLoadData24h.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>TwoLevelPWMConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TwoLevelPWMConverterExample.html</file>
+    <metadata>ex00500136</metadata>
+    <thumbnail>html/TwoLevelPWMConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">TwoLevelPWMConverter.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">TwoLevelPWMConverter.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePhaseLineExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePhaseLineExample.html</file>
+    <metadata>ex00500137</metadata>
+    <thumbnail>html/SinglePhaseLineExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SinglePhaseLine.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>BrushlessDCMotorwithCurrentControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BrushlessDCMotorwithCurrentControlExample.html</file>
+    <metadata>ex00500138</metadata>
+    <thumbnail>html/BrushlessDCMotorwithCurrentControlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">BrushlessDCMotorwithCurrentControl.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">BrushlessDCMotorwithCurrentControlData.m</file>
+  </demoitem>
+  <demoitem>
+    <source>BrushlessDCMotorwithSixStepInverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BrushlessDCMotorwithSixStepInverterExample.html</file>
+    <metadata>ex00500139</metadata>
+    <thumbnail>html/BrushlessDCMotorwithSixStepInverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">BrushlessDCMotorwithSixStepInverter.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">BrushlessDCMotorwithSixStepInverterData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">BrushlessDCMotorwithSixStepInverterFigure.png</file>
+    <file component="simscapeelectricalsps" timestamp="0">BrushlessDCMotorwithSixStepInverterTable.png</file>
+  </demoitem>
+  <demoitem>
+    <source>InductionMotorDirectTorqueControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InductionMotorDirectTorqueControlExample.html</file>
+    <metadata>ex00500140</metadata>
+    <thumbnail>html/InductionMotorDirectTorqueControlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">InductionMotorDirectTorqueControl.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">InductionMotorDirectTorqueControlData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">InductionMotorDirectTorqueControl.png</file>
+  </demoitem>
+  <demoitem>
+    <source>InductionMotorDirectTorqueControlwithSVMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InductionMotorDirectTorqueControlwithSVMExample.html</file>
+    <metadata>ex00500141</metadata>
+    <thumbnail>html/InductionMotorDirectTorqueControlwithSVMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">InductionMotorDirectTorqueControlwithSVM.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">InductionMotorDirectTorqueControlwithSVMData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">UnifiedPWMModulator2Level.m</file>
+  </demoitem>
+  <demoitem>
+    <source>InductionMotorDriveFieldOrientedControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InductionMotorDriveFieldOrientedControlExample.html</file>
+    <metadata>ex00500142</metadata>
+    <thumbnail>html/InductionMotorDriveFieldOrientedControlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">InductionMotorDriveFieldOrientedControl.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">InductionMotorDriveFieldOrientedControlData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">UnifiedPWMModulator2Level.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">InductionMotorDriveFieldOrientedControl.png</file>
+    <file component="simscapeelectricalsps" timestamp="0">InductionMotorDriveFieldOrientedControl2.png</file>
+  </demoitem>
+  <demoitem>
+    <source>InteriorPMSMFieldOrientedControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InteriorPMSMFieldOrientedControlExample.html</file>
+    <metadata>ex00500143</metadata>
+    <thumbnail>html/InteriorPMSMFieldOrientedControlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">InteriorPMSMFieldOrientedControl.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">InteriorPMSMFieldOrientedControlData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">UnifiedPWMModulator2Level.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SurfaceMountedPMSMFieldOrientedControlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SurfaceMountedPMSMFieldOrientedControlExample.html</file>
+    <metadata>ex00500144</metadata>
+    <thumbnail>html/SurfaceMountedPMSMFieldOrientedControlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SurfaceMountedPMSMFieldOrientedControl.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">SurfaceMountedPMSMFieldOrientedControlData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">UnifiedPWMModulator2Level.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SpeedRegulatedSwitchedReluctanceMotorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SpeedRegulatedSwitchedReluctanceMotorExample.html</file>
+    <metadata>ex00500145</metadata>
+    <thumbnail>html/SpeedRegulatedSwitchedReluctanceMotorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SpeedRegulatedSwitchedReluctanceMotor.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">SpeedRegulatedSwitchedReluctanceMotorData.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">SRMRotorPositions.png</file>
+  </demoitem>
+  <demoitem>
+    <source>ThreePhasePMSMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThreePhasePMSMExample.html</file>
+    <metadata>ex00500146</metadata>
+    <thumbnail>html/ThreePhasePMSMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThreePhasePMSM.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PhasorMeasurementUnitExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PhasorMeasurementUnitExample.html</file>
+    <metadata>ex00500147</metadata>
+    <thumbnail>html/PhasorMeasurementUnitExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">PhasorMeasurementUnit.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ThreePhaseASMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThreePhaseASMExample.html</file>
+    <metadata>ex00500148</metadata>
+    <thumbnail>html/ThreePhaseASMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThreePhaseASM.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RectifierExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RectifierExample.html</file>
+    <metadata>ex00500149</metadata>
+    <thumbnail>html/RectifierExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">Rectifier.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePhaseASMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePhaseASMExample.html</file>
+    <metadata>ex00500150</metadata>
+    <thumbnail>html/SinglePhaseASMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SinglePhaseASM.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SynchronousMotorStartingExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SynchronousMotorStartingExample.html</file>
+    <metadata>ex00500151</metadata>
+    <thumbnail>html/SynchronousMotorStartingExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SynchronousMotorStarting.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>StaticSynchronousSeriesCompensatorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/StaticSynchronousSeriesCompensatorExample.html</file>
+    <metadata>ex00500152</metadata>
+    <thumbnail>html/StaticSynchronousSeriesCompensatorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">StaticSynchronousSeriesCompensator.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>STATCOMPhasorModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/STATCOMPhasorModelExample.html</file>
+    <metadata>ex00500153</metadata>
+    <thumbnail>html/STATCOMPhasorModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">STATCOMPhasorModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>MMCSTATCOMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/MMCSTATCOMExample.html</file>
+    <metadata>ex00500154</metadata>
+    <thumbnail>html/MMCSTATCOMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">MMCSTATCOM.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">MMCSTATCOMInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>STATCOMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/STATCOMExample.html</file>
+    <metadata>ex00500155</metadata>
+    <thumbnail>html/STATCOMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">STATCOM.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">STATCOM.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">STATCOMInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>StepperMotorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/StepperMotorExample.html</file>
+    <metadata>ex00500156</metadata>
+    <thumbnail>html/StepperMotorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">StepperMotor.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">StepperMotorData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>SurgeArrestersExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SurgeArrestersExample.html</file>
+    <metadata>ex00500157</metadata>
+    <thumbnail>html/SurgeArrestersExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SurgeArresters.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>StaticVarCompensatorPhasorModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/StaticVarCompensatorPhasorModelExample.html</file>
+    <metadata>ex00500158</metadata>
+    <thumbnail>html/StaticVarCompensatorPhasorModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">StaticVarCompensatorPhasorModel.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">StaticVarCompensator.fig</file>
+  </demoitem>
+  <demoitem>
+    <source>StaticVarCompensatorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/StaticVarCompensatorExample.html</file>
+    <metadata>ex00500159</metadata>
+    <thumbnail>html/StaticVarCompensatorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">StaticVarCompensator.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>TransientStabilityofMultiMachineSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TransientStabilityofMultiMachineSystemExample.html</file>
+    <metadata>ex00500160</metadata>
+    <thumbnail>html/TransientStabilityofMultiMachineSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">TransientStabilityofMultiMachineSystem.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SVPWMConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SVPWMConverterExample.html</file>
+    <metadata>ex00500161</metadata>
+    <thumbnail>html/SVPWMConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SVPWMConverter.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">SVPWMConverterInit.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>MultiPhaseSVPWMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/MultiPhaseSVPWMExample.html</file>
+    <metadata>ex00500162</metadata>
+    <thumbnail>html/MultiPhaseSVPWMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">MultiPhaseSVPWM.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>InductiveCurrentChoppingExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InductiveCurrentChoppingExample.html</file>
+    <metadata>ex00500163</metadata>
+    <thumbnail>html/InductiveCurrentChoppingExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">InductiveCurrentChopping.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SynchronousBuckConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SynchronousBuckConverterExample.html</file>
+    <metadata>ex00500164</metadata>
+    <thumbnail>html/SynchronousBuckConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SynchronousBuckConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SwitchingLossCalculationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SwitchingLossCalculationExample.html</file>
+    <metadata>ex00500165</metadata>
+    <thumbnail>html/SwitchingLossCalculationExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SwitchingLossCalculation.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ThyristorControlledSeriesCapacitorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThyristorControlledSeriesCapacitorExample.html</file>
+    <metadata>ex00500166</metadata>
+    <thumbnail>html/ThyristorControlledSeriesCapacitorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThyristorControlledSeriesCapacitor.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PhasorThyristorControlledSeriesCapacitorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PhasorThyristorControlledSeriesCapacitorExample.html</file>
+    <metadata>ex00500167</metadata>
+    <thumbnail>html/PhasorThyristorControlledSeriesCapacitorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">PhasorThyristorControlledSeriesCapacitor.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SteamTurbineandGovernorSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SteamTurbineandGovernorSystemExample.html</file>
+    <metadata>ex00500168</metadata>
+    <thumbnail>html/SteamTurbineandGovernorSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">SteamTurbineandGovernorSystem.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>MatrixConverterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/MatrixConverterExample.html</file>
+    <metadata>ex00500169</metadata>
+    <thumbnail>html/MatrixConverterExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">MatrixConverter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DistributionTransformerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DistributionTransformerExample.html</file>
+    <metadata>ex00500170</metadata>
+    <thumbnail>html/DistributionTransformerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">DistributionTransformer.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SaturableTransformerHysteresisExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SaturableTransformerHysteresisExample.html</file>
+    <metadata>ex00500171</metadata>
+    <thumbnail>html/SaturableTransformerHysteresisExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SaturableTransformerHysteresis.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SaturableTransformerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SaturableTransformerExample.html</file>
+    <metadata>ex00500172</metadata>
+    <thumbnail>html/SaturableTransformerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SaturableTransformer.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>TransientAnalysisExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TransientAnalysisExample.html</file>
+    <metadata>ex00500173</metadata>
+    <thumbnail>html/TransientAnalysisExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">TransientAnalysis.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ThreePhaseLineExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThreePhaseLineExample.html</file>
+    <metadata>ex00500174</metadata>
+    <thumbnail>html/ThreePhaseLineExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThreePhaseLine.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SynchronousMachineExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SynchronousMachineExample.html</file>
+    <metadata>ex00500175</metadata>
+    <thumbnail>html/SynchronousMachineExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">SynchronousMachine.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>UnifiedPowerFlowControllerPhasorModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/UnifiedPowerFlowControllerPhasorModelExample.html</file>
+    <metadata>ex00500176</metadata>
+    <thumbnail>html/UnifiedPowerFlowControllerPhasorModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">UnifiedPowerFlowControllerPhasorModel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>UnifiedPowerFlowControllerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/UnifiedPowerFlowControllerExample.html</file>
+    <metadata>ex00500177</metadata>
+    <thumbnail>html/UnifiedPowerFlowControllerExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">UnifiedPowerFlowController.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>WindFarmDFIGPhasorModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WindFarmDFIGPhasorModelExample.html</file>
+    <metadata>ex00500178</metadata>
+    <thumbnail>html/WindFarmDFIGPhasorModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">WindFarmDFIGPhasorModel.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmDFIGPhasorModel.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmDFIGPhasorModelInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WindFarmDFIGAverageModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WindFarmDFIGAverageModelExample.html</file>
+    <metadata>ex00500179</metadata>
+    <thumbnail>html/WindFarmDFIGAverageModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">WindFarmDFIGAverageModel.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmDFIGAverageModel.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmDFIGAverageModelInit.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmDFIGDetVsAvg.fig</file>
+  </demoitem>
+  <demoitem>
+    <source>WindFarmDFIGExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WindFarmDFIGExample.html</file>
+    <metadata>ex00500180</metadata>
+    <thumbnail>html/WindFarmDFIGExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">WindFarmDFIG.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmDFIG.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmDFIGInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WindFarmInductionGeneratorsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WindFarmInductionGeneratorsExample.html</file>
+    <metadata>ex00500181</metadata>
+    <thumbnail>html/WindFarmInductionGeneratorsExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" open="open" timestamp="0">WindFarmInductionGenerators.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmInductionGenerators.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmInductionGeneratorsInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WindFarmType4AverageModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WindFarmType4AverageModelExample.html</file>
+    <metadata>ex00500182</metadata>
+    <thumbnail>html/WindFarmType4AverageModelExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">WindFarmType4AverageModel.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmType4AverageModel.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmType4AverageModelInit.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WindFarmType4Example</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WindFarmType4Example.html</file>
+    <metadata>ex00500183</metadata>
+    <thumbnail>html/WindFarmType4Example_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">WindFarmType4.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmType4.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmType4DetVsAvg.fig</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindFarmType4Init.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WindTurbineAsynchronousGeneratorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WindTurbineAsynchronousGeneratorExample.html</file>
+    <metadata>ex00500184</metadata>
+    <thumbnail>html/WindTurbineAsynchronousGeneratorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">WindTurbineAsynchronousGenerator.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindTurbineAsynchronousGenerator.mat</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindTurbineAsynchronousGeneratorInit.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">WindTurbineCharacteristics.fig</file>
+  </demoitem>
+  <demoitem>
+    <source>ZenerDiodeRegulatorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ZenerDiodeRegulatorExample.html</file>
+    <metadata>ex00500185</metadata>
+    <thumbnail>html/ZenerDiodeRegulatorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ZenerDiodeRegulator.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>GroundTransportationSystemExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/GroundTransportationSystemExample.html</file>
+    <metadata>ex00500186</metadata>
+    <thumbnail>html/GroundTransportationSystemExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">GroundTransportationSystem.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">UnifiedPWMModulator2Level.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">CurrentSpaceVectors.png</file>
+    <file component="simscapeelectricalsps" timestamp="0">MagnetoMotiveForces.png</file>
+    <file component="simscapeelectricalsps" timestamp="0">RealTimeResults.png</file>
+  </demoitem>
+  <demoitem>
+    <source>ThreeLevelNPCConverterwithSVPWMExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ThreeLevelNPCConverterwithSVPWMExample.html</file>
+    <metadata>ex00500187</metadata>
+    <thumbnail>html/ThreeLevelNPCConverterwithSVPWMExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">ThreeLevelNPCConverterwithSVPWM.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PowerConvertersExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PowerConvertersExample.html</file>
+    <metadata>ex00500188</metadata>
+    <thumbnail>html/PowerConvertersExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapeelectrical</product>
+    <file component="simscapeelectricalsps" timestamp="0" open="open">PowerConverters.slx</file>
+    <file component="simscapeelectricalsps" timestamp="0">PowerConvertersConfig.m</file>
+    <file component="simscapeelectricalsps" timestamp="0">PowerConvertersInit.m</file>
+  </demoitem>
+</demos>

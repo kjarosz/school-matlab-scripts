@@ -1,0 +1,9 @@
+function func = leadlag(R1,R2,C1,C2)
+%LEADLAG Summary of this function goes here
+%   Detailed explanation goes here
+    func = tf(...
+        conv([1 1/(R2*C2)], [1 1/(C1*C2)]), ...
+        [1 (R1*C2+C1*R1+R2*C2)/(R1*R2*C1*C2) 1/(R1*R2*C1*C2)] ...
+    );
+end
+

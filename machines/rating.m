@@ -1,0 +1,9 @@
+function rating_struct = rating(V, I, P)
+    %RATINGS Summary of this class goes here
+    %   Detailed explanation goes here
+    rating_struct = struct(...
+        "voltage", V, ...
+        "current", I, ...
+        "power", P);
+end
+

@@ -1,0 +1,16 @@
+function audio_record = record_audio(audio_record, length)
+    channels = 1;
+    record_object = audiorecorder( ...
+      audio_record.sample_rate, ...
+      audio_record.bits, ...
+      channels, ...
+      audio_record.input_device_id ...
+    );
+    
+    disp('Recording started');
+    recordblocking(record_object, length);
+    disp('Recording stopped');
+    
+    audio_record.data = getaudiodata(record_object);
+end
+  

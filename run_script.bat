@@ -1,0 +1,1 @@
+matlab -batch "%1"
